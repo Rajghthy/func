@@ -1,4 +1,9 @@
 @media (max-width:2560px) {
+    .jj form{
+                background: linear-gradient(183deg, #004e8873, #fdc62e00);
+        padding: 20px;
+        border-radius: 20px;
+    }
     .navbar-light .navbar-nav .nav-link {
     color: rgb(1 77 141);
     font-size: 26px;
@@ -23,7 +28,7 @@
     .a .card {
         border: 2px solid #fff;
     }
-hjkhjlj
+
     .a .card:hover {
         border: 2px solid #fff;
         box-shadow: 1px 1px 20px 1px #fff;
