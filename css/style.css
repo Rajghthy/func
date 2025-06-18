@@ -1,0 +1,93 @@
+@media (max-width:2560px) {
+    .navbar-light .navbar-nav .nav-link {
+    color: rgb(1 77 141);
+    font-size: 26px;
+    font-weight: 500;
+}
+.navbar-brand{
+    width: 8%;
+}
+
+
+
+
+    .q {
+        height: 1000px;
+    }
+
+    .vapcontent {
+        display: none;
+    }
+
+
+    .a .card {
+        border: 2px solid #fff;
+    }
+
+    .a .card:hover {
+        border: 2px solid #fff;
+        box-shadow: 1px 1px 20px 1px #fff;
+        transform: scale(1.1);
+
+    }
+    .a .card:hover h5 {
+        color: blue;
+        text-align: center;
+
+
+    }
+
+    /* 
+    .a .card:hover p {
+        color: #000;
+        text-align: center;
+
+
+    } */
+
+
+
+
+    .a h2 {
+        color: aliceblue;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .a {
+        padding: 50px 0px;
+        background: url(../img/a1.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+    }
+
+    .a .card {
+        margin-top: 50px;
+    }
+
+
+
+    .a h5 {
+        font-size: 25px;
+    }
+}
+
+@media (max-width:1920px) {}
+
+@media (max-width:1440px) {}
+
+@media (max-width:1024px) {}
+
+@media (max-width:768px) {}
+
+@media (max-width:576px) {
+    .navbar-brand{
+    width: 25%;
+}
+}
+
+@media (max-width:425px) {}
+
+@media (max-width:375px) {}
+
+@media (max-width:320px) {}
